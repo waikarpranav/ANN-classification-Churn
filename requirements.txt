@@ -1,7 +1,6 @@
+streamlit==1.31.1
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.3.2
 tensorflow==2.15.0
-pandas
-numpy
-scikit-learn
-tensorboard
-streamlit
-ipykernal
+joblib==1.3.2
